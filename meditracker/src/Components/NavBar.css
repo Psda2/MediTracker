@@ -1,0 +1,26 @@
+*{
+    font-family:Poppins;
+    background-color: #faf9f9;
+}
+.NavBar{
+    background-color: aqua;
+    padding: 10px;
+    height: 60px;
+}
+.NavBar-Cont{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.Nav-Button{
+    margin: 1%;
+}
+.Logo-Bar{
+    display: flex;
+    justify-content: space-between;
+}
+.Logo{
+    margin: 1%;
+}
+.User-Avatar{
+    margin:1%;
+}
